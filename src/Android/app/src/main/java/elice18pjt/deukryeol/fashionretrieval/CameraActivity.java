@@ -64,5 +64,4 @@ public class CameraActivity extends Activity implements View.OnClickListener{
             mImageView.setImageBitmap(imageBitmap);
         }
     }
-
 }
